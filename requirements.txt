@@ -1,0 +1,10 @@
+torch
+transformers>=4.40,<5
+IndicTransToolkit
+sentencepiece
+sacremoses
+accelerate
+safetensors
+python-docx
+pypdf
+huggingface_hub
